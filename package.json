@@ -1,0 +1,25 @@
+{
+  "name": "react-2026",
+  "version": "1.0.0",
+  "description": "created by Giridhar",
+  "homepage": "https://github.com/Giridhar0070/React-09-Oct-2026#readme",
+  "bugs": {
+    "url": "https://github.com/Giridhar0070/React-09-Oct-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giridhar0070/React-09-Oct-2026.git"
+  },
+  "license": "ISC",
+  "author": "Giridhar",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+   
+}
+ ,"test": "jest"
+ ,
+   "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
