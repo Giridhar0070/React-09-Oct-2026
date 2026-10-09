@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["index.css"],"sourcesContent":["#heading {\n    font-size: 24px;\n    font-weight: bold;\n    color: #333;\n    margin-bottom: 20px;\n    background-color: #f0f0f0;\n}"],"names":[],"version":3,"file":"namaste-React.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}

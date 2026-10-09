@@ -13,7 +13,6 @@
   "license": "ISC",
   "author": "giridhar",
   "type": "commonjs",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
